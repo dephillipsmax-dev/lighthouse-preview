@@ -1,0 +1,40 @@
+# Lighthouse
+
+> Lighthouse is an AI back-office service for small businesses, based in Jupiter, Florida, working with businesses across the United States. We set up an AI assistant inside the email, calendar and bookkeeping tools a business already uses. Customer messages wait for the owner's approval by default; after approving the same kind of reply five times without changes, the owner can switch on auto-send for that kind only. Setup is done remotely, over video and screen share.
+
+## What Lighthouse does
+- Replies to new leads and follows up on quotes that went quiet
+- Answers common customer emails from a list of answers the owner approves; refunds and complaints go to the owner
+- Sends reminders for unpaid invoices and sorts incoming bills into the books
+- Answers the owner's questions about their own business from their email, books, calendar and sales (best customers, where time goes, why a month was slow)
+- Shows what each job, service or customer really earns and where the money goes
+- Works all day; sends the owner a short daily rundown, plus a Monday summary and a 30, 60 and 90-day cash outlook
+- On setup day, checks for money owed, quotes gone quiet, forgotten promises, price creep, unused subscriptions and past customers to win back
+
+## Who it's for
+Owners of small businesses of any kind (trades, rentals and hospitality, salons and spas, restaurants, shops, professional offices, marine services, health and wellness) whose customer emails, quotes or bookings, and invoices are spread across an inbox and a set of books. How much repeat work there is matters more than headcount.
+
+## Where
+Based in Jupiter, FL. Every setup is done remotely, over video and screen share, for small businesses anywhere in the United States.
+
+## Works with
+Gmail, Outlook, Google Calendar, QuickBooks, Xero, Square, Stripe and HubSpot.
+
+## Pricing
+One plan: $3,500 one-time setup, then $750 a month, no long contract. Custom tools are separate projects, quoted per project. Starts with a short form and a 15-minute call, then a one-page written plan.
+
+## Planning and strategy
+Lighthouse also helps owners make bigger decisions with their own numbers: whether they can afford to hire (30, 60 and 90-day cash forecasts), which services and customers are most profitable, whether to raise prices, where to find more customers like their best ones, a first read of contracts, and a monthly summary of results. Owners can ask it any question about their business. It gives options and numbers; the owner decides.
+
+## Pages
+- [Home](index.html): what Lighthouse does and why owners use AI
+- [Leads and customer replies](leads.html)
+- [Learn your business](know-your-business.html): ask questions about your own business
+- [Money and bills](getting-paid.html)
+- [Planning and your numbers](planning.html)
+- [Custom tools](custom-tools.html)
+- [Pricing](pricing.html): $3,500 setup, then $750 a month; custom work quoted separately
+- [How it works](how-it-works.html)
+- [Questions](faq.html)
+- [About](about.html)
+- [Remote setup](remote-setup.html): how setup works over video and screen share
